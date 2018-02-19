@@ -123,11 +123,11 @@ h1 {
  top: 15px;
 }
 .tree_bot{
-	border-left: 80px solid transparent;
-	border-right: 80px solid transparent;
-	border-bottom: 80px solid green;
-	left: 330px;
-	top: 190px;
+border-left: 80px solid transparent;
+border-right: 80px solid transparent;
+border-bottom: 80px solid green;
+left: 330px;
+top: 190px;
 }
 .tree_bot:before {
  content:'';
